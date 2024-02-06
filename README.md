@@ -1,48 +1,35 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club Case Study
+> This case study is to perform EDA on a loan data set of a company and identify the customer's who is likely yo default
 
 
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- This is a typical business case study which helps a financial company to decide whether to give a loan to their customer or not based on their profile
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- All the EDA techniques has been applied to the loan data set and observations has been noted down in the pdf.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Data Cleaning
+- Univariate Analysis
+- Bivariate Analysis
+- Derived Metrics
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
-
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by HareshKumarkj - feel free to contact me!
 
 
 <!-- Optional -->
